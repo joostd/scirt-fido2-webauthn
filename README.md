@@ -10,3 +10,4 @@ This repository contains instructions for the SCIRT workshop on FIDO2 and Web Au
 3. [Phishing](3-phishing.md) - See how FIDO2 protects agains phishing.
 4. [FIDO CTAP](4-fido-ctap.md) - Explore FIDO keys from the command line
 5. [W3C Webauthn API](5-webauthn.md) - Explore FIDO keys using Webauthn from a web browser.
+6. [Windows Hello](6-windows-hello.md) - Use Windows Hello as a platform authenticator on Windows 10.
