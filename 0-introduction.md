@@ -7,7 +7,7 @@ You are provided with a security key by Yubico (USB-A: use an adapter if you req
 
 When using an Android device: make sure it is running Android 7+.
 
-Use the latest version of Google Chrome version (but at least 72+)
+Use the latest version of Google Chrome (at least 72+)
 Alternatively, use any other browser with FIDO2 support:
 
 - Windows 10: Edge version 1809+
@@ -26,5 +26,11 @@ Also required:
 - Optional: [Vagrant](https://www.vagrantup.com/downloads.html)
 - Optional: [MSEdge on Win10 (x64) Stable 1809](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 - Optional: [Android Studio](https://developer.android.com/studio)
+
+Optionally, you can experiment with new features when they are implemented on previes releases of several browsers, such as
+[Chrome Canary](https://www.google.com/chrome/canary/),
+[Microsoft Edge Canary](https://www.microsoftedgeinsider.com/en-us/download),
+[Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/), or
+[Safari Technology Preview](https://developer.apple.com/safari/technology-preview/).
 
 Have fun!
