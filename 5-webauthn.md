@@ -9,17 +9,17 @@ Experiment:
 
 ## plain client-side JavaScript
 
-Either view online or locally:
+Either [view online](https://herrjemand.github.io/FIDO2WebAuthnSeries/) or run locally:
 
 git clone https://github.com/herrjemand/FIDO2WebAuthnSeries.git
 
 ```
 cd FIDO2WebAuthnSeries/
 php -S localhost:8080 -t .
-http://localhost:8080/
 ```
 
-View | Developer | JavaScript Console
+Open http://localhost:8080/ with your browser and open the JavaScript Console (e.g. with Chrome:
+_View | Developer | JavaScript Console_)
 
 ## Other
 
