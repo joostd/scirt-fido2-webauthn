@@ -1,9 +1,6 @@
 # 4 FIDO2 and CTAP
 
-vagrant box add ubuntu/bionic64
-vagrant init ubuntu/bionic64
-    
-      config.vm.network "forwarded_port", guest: 8080, host: 8080
+In this exercies we will experiment with FIDO2 tokens from the command line (i.e. without a browser).
 
 ## libfido2
 
@@ -44,14 +41,6 @@ The last line is the attestation certificate. You can view its contents using:
 
     cat cred_result | tail -1 | base64 -d | openssl x509 -inform de -noout -text
 
-Alternatively, install and use these tools using a Makefile
-
-```
-git clone https://github.com/joostd/fido2-tutorial.git
-cd yubico
-make verify
-```
-
 ## obtain a new assertion
 
 Construct parameters for generating assertions:
@@ -73,3 +62,23 @@ Extract the public key:
 Verify the assertion using the public key:
 
     fido2-assert -V -i assert_result pubkey es256
+
+## Using a Makefile
+
+Alternatively, install and use these tools using a Makefile
+
+```
+git clone https://github.com/joostd/fido2-tutorial.git
+cd yubico
+make verify
+```
+
+## Using a VM
+
+```
+vagrant box add ubuntu/bionic64
+vagrant init ubuntu/bionic64
+```
+
+      config.vm.network "forwarded_port", guest: 8080, host: 8080
+      
