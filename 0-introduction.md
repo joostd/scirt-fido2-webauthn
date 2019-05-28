@@ -21,13 +21,10 @@ If you are using Safari 12.1, you need to enable Web Authentication first:
 
 Also required:
 
-[Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-[Ubuntu 18.04 LTS](http://releases.ubuntu.com/18.04/)
-
-Optional: [Vagrant](https://www.vagrantup.com/downloads.html)
-Optoinal: [MSEdge on Win10 (x64) Stable 1809](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
-Optional: [Android Studio](https://developer.android.com/studio)
-
-
+- [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+- [Ubuntu 18.04 LTS](http://releases.ubuntu.com/18.04/)
+- Optional: [Vagrant](https://www.vagrantup.com/downloads.html)
+- Optional: [MSEdge on Win10 (x64) Stable 1809](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+- Optional: [Android Studio](https://developer.android.com/studio)
 
 Have fun!
