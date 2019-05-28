@@ -17,6 +17,8 @@ Register a security key:
 - Security Keys
 - Add new key
 
+Note: before you can register a sercurity key, you need to enable "two step verification" using either a TOTP authenticator or text messages.
+
 ### Google
 
 Login to https://myaccount.google.com/security
