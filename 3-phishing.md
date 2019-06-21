@@ -1,6 +1,6 @@
 # 3 phishing
 
-With [evilginx](https://github.com/kgretzky/evilginx2) you can easily deploy a phinshing site.
+With [evilginx](https://github.com/kgretzky/evilginx2) you can easily deploy a phishing site.
 See also [this blogpost](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/).
 
 We will start an outlook phishing site (only available from the workshop IP range): open 
