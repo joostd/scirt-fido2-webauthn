@@ -5,7 +5,8 @@ Several sites have enabled support for FIDO2/Webauthn.
 Try some of the sites below (register a new account if you don't have one already).
 
 If you own a Macbook with Touchbar: try the Platform authenticator (using Chrome)
-If on Android try the Android platform authenticator (eg fingerprint scanner). See also the separate Android exercise.
+
+If on Android try the Android platform authenticator (using eg a fingerprint scanner). See also the separate Android exercise.
 
 ### Dropbox
 
