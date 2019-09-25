@@ -7,7 +7,7 @@ Obviously, you will need an Android device in this exercise ;-)
 Webauthn can also be used on the Android platform. All major browsers support Webauthn via the USB interface. This often requires an adapter, which makes this a less convenient option. Luckily, your security key by yubico also has an NFC interface.
 
 - Install the Latest Firefox Beta or Google Chrome on your Android (7+) device.
-- Go to one of the webauthn demo sites, for instance [https://demo.yubicom.com/](https://demo.yubicom.com/)
+- Go to one of the webauthn demo sites, for instance [https://demo.yubicom.com/](https://demo.yubico.com/)
 - Register your security key using NFC instead of USB.
 
 ## Using your Android device as an authenticator
