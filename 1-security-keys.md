@@ -40,6 +40,12 @@ Register a security key:
 See also https://account.live.com/proofs/Manage/additional
 and https://account.live.com/proofs/fido/manage
 
+### Twitter
+
+Login to https://twitter.com/settings/account/login_verification
+
+Under "Verification methods", tick the checkbox after "Security key" and register your key.
+
 ### login.gov
 
 Register a new account.
