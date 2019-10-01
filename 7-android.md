@@ -16,7 +16,7 @@ The Android platform is [certified](https://fidoalliance.org/android-now-fido2-c
 
 Repeat the last exercice, but use the fingerprint scanner or face recognition features of your Android device to register.
 
-## Use your Android device as a romaing authenticator
+## Use your Android device as a roaming authenticator
 
 To protect Google accounts, you can also use your Android device as a roaming authenticator.
 Follw along with this [blog](https://www.blog.google/technology/safety-security/your-android-phone-is-a-security-key/) to see if that works.
